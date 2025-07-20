@@ -227,7 +227,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Amira Mohamed Kamal**
-- Email: amiramohamedkamal484@gmail.com
+
 - LinkedIn: [Amira Mohamed Kamal](https://linkedin.com/in/amira-mohamed-kamal)
 - GitHub: [@Mera-elgaher](https://github.com/Mera-elgaher)
 
